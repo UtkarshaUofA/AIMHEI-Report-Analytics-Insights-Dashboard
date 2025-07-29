@@ -1,0 +1,73 @@
+1: D: Hi, good afternoon. I'm David Kim, a third-year med student working with Dr. Martinez today. I’ll be taking your history and then she’ll come in. Is that alright?
+2: P: Yeah, that’s fine.
+3: D: Great. Just to confirm — you're Megan Hart?
+4: P: That’s me.
+5: D: And your date of birth?
+6: P: July 12th, 2000.
+7: D: Thank you. So what brings you into the clinic today?
+8: P: I’ve been having this really bad pain in my lower right abdomen since yesterday evening.
+9: D: Okay, sorry to hear that. Was it sudden, or did it start gradually?
+10: P: It came on kind of slowly but got a lot worse overnight.
+11: D: I see. Did you use the patient chatbot before coming in?
+12: P: Yeah, I did. It asked me questions about my symptoms.
+13: D: Do you remember what it suggested?
+14: P: It said it might be appendicitis and told me to come in.
+15: D: That’s helpful. Did it ask you about fever, nausea, or appetite changes?
+16: P: Yeah. I told it that I was nauseous and hadn’t eaten much.
+17: D: Have you had any vomiting?
+18: P: Just once this morning, after I brushed my teeth.
+19: D: Was the pain in the center of your belly at first and then moved to the right?
+20: P: Exactly. It started right in the middle and then moved lower and to the right side.
+21: D: That’s a classic pattern for appendicitis. Any diarrhea or constipation?
+22: P: Constipation, kind of. I haven’t gone in over a day.
+23: D: Any blood in the stool?
+24: P: No.
+25: D: Did the chatbot ask you to press on your belly or test for pain when you release pressure?
+26: P: Yeah, it did. And it hurt more when I let go.
+27: D: That's called rebound tenderness — very useful. Have you had any similar issues in the past?
+28: P: No, never.
+29: D: Are you sexually active?
+30: P: Yes.
+31: D: Any chance you could be pregnant?
+32: P: I don’t think so. I’m on birth control pills.
+33: D: Are your periods regular?
+34: P: Usually, yeah. I’m supposed to start in a few days.
+35: D: Okay. We’ll do a pregnancy test just in case — that’s routine. Any past surgeries?
+36: P: No, this would be my first.
+37: D: Any medical conditions like diabetes, asthma, or anything ongoing?
+38: P: No, I’m pretty healthy.
+39: D: Allergies to any medications?
+40: P: I’m allergic to sulfa drugs.
+41: D: What kind of reaction do you get?
+42: P: Rash and itching, nothing too serious.
+43: D: Got it. And are you on any regular medications other than the birth control?
+44: P: Nope.
+45: D: Do you live nearby? Any concerns about support at home if you need surgery?
+46: P: I live with my sister. She could help out.
+47: D: That’s good. Do you smoke or drink?
+48: P: I drink socially. Maybe a glass of wine once or twice a week. I don’t smoke.
+49: D: Do you use any recreational drugs?
+50: P: No.
+51: D: And your chatbot history — do you remember if it asked about the character of the pain?
+52: P: Yes. It asked if it was sharp, dull, stabbing. I said it was sharp and constant.
+53: D: Would you say the pain is getting worse, staying the same, or improving?
+54: P: Worse, for sure.
+55: D: Have you taken anything for it? Tylenol or ibuprofen?
+56: P: I took Tylenol this morning, but it didn’t help.
+57: D: On a scale of 1 to 10, how would you rate the pain now?
+58: P: Probably an 8.
+59: D: That’s pretty severe. Any chills or fever?
+60: P: I felt hot earlier. I think I might have a fever.
+61: D: We’ll check your vitals right after this. Have you been around anyone sick?
+62: P: No, not really.
+63: D: Are you up to date on vaccinations, like tetanus and COVID?
+64: P: Yeah, I am.
+65: D: That’s great. The chatbot-generated symptom log will help us prioritize tests. Did it mention bloodwork or imaging?
+66: P: Yes. It said I might need a CT scan or ultrasound.
+67: D: Very good. We’ll likely do labs first and possibly imaging based on what we see. Any other symptoms you didn’t mention yet?
+68: P: Not that I can think of.
+69: D: Okay. Thanks for being thorough. Before I step out — any other concerns you want to mention?
+70: P: Just... if I do need surgery, will it be today?
+71: D: We’ll know more once the labs and scan come back. But yes, if it is appendicitis, they’ll probably want to operate today.
+72: P: Okay. Thank you.
+73: D: You’re welcome. I’ll check in again once we have more info.
