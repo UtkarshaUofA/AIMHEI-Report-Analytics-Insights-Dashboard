@@ -69,38 +69,35 @@ def process_transcripts(transcripts, classifier):
 
     return empathy_scores
 
-# Plot trend of empathy scores 
-import matplotlib.pyplot as plt
-import os
 
-def plot_empathy_scores(scores_dict, output_folder="empathy_graphs", filename="empathy_score_plot.png"):
-    # Create output folder if it doesn't exist
-    os.makedirs(output_folder, exist_ok=True)
+def plot_empathy_scores(scores_dict, save_path='output/empathy_scores.png'):
+    # Ensure the output folder exists
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
 
-    sessions = list(scores_dict.keys())
+    # Unpack the dictionary
+    names = list(scores_dict.keys())
     scores = list(scores_dict.values())
 
-    # Plotting
+    # Plot settings
     plt.figure(figsize=(10, 6))
-    plt.plot(sessions, scores, marker='o', linestyle='-', linewidth=2)
+    bars = plt.bar(names, scores, width=0.5)
 
-    # Titles and labels
-    plt.title("Empathy Scores Over Time", fontsize=16)
-    plt.xlabel("Session", fontsize=12)
-    plt.ylabel("Empathy Score", fontsize=12)
-    plt.ylim(0, 1)
-    plt.grid(True, linestyle='--', alpha=0.7)
+    # Color bars based on value
+    for bar, score in zip(bars, scores):
+        bar.set_color('#6A5ACD' if score > 0 else '#D3D3D3')
 
-    # Rotate x-labels for readability
-    plt.xticks(rotation=45)
+    plt.title('Empathy Scores per Session', fontsize=16, fontweight='bold', pad=20)
+    plt.xlabel('Sessions', fontsize=12)
+    plt.ylabel('Empathy Score', fontsize=12)
+    plt.ylim(0.0, 0.5)
+    plt.xticks(rotation=45, ha='right', fontsize=10)
+    plt.yticks(ticks=[i * 0.05 for i in range(11)], fontsize=10)
+    plt.grid(axis='y', linestyle='--', alpha=0.6)
 
     # Save and show
-    output_path = os.path.join(output_folder, filename)
     plt.tight_layout()
-    plt.savefig(output_path)
+    plt.savefig(save_path, dpi=300)
     plt.close()
-
-    print(f"✅ Graph saved at: {output_path}")
 
     
 # Main
