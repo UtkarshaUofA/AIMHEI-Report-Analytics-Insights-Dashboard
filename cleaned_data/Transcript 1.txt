@@ -1,0 +1,225 @@
+﻿1: D: So, good morning.
+2: P: Good morning.
+3: D: I'm [NAME]. [NAME] brown. I'm one of the medical students on the Um, emergency department service right now? And i've been asked to come in here and and take a look at you for dr. [NAME] who's the attending? Um and so i would was going to take some time and ask you what was going on and try and coordinate that into some notes for him if that's okay with you.
+4: P: Yes, sure, that'd be great.
+5: D: Well first, as i said, i'm john brown from the emergency department. I'm a third year medical student and i want to double check Your jane doe. Is that correct,
+6: P: Correct?
+7: D: And could you give me your date of birth?
+8: [NAME]: Sure. It is. 2/10. Of. 82.
+9: D: So February...
+10: P: 10
+11: D: 10th of 1982, right? And i see you have a bracelet on there. Could I just take a brief look at that to see her medical record Number?
+12: P: sure.
+13: D: Okay So let me just see if i got this, right, so it's zero, nine two. Five, four sixty-eight 41. Thank you, good. I just wanted to make sure they had the right person. I want to make sure first that you're comfortable, you are comfortable right now. You need coffee or anything.
+14: P: No, I'm fine.
+15: D: Okay because this will take a few minutes and I'll just want to make sure comfortable and don't need to use the head or anything like that.
+16: P: Okay.
+17: D: Okay. Um, so tell me what brought you into the emergency department today.
+18: P: I've Really had a headache. I pat it for. Uh, a couple days now and it's really bad. I just i'm having a really hard time.
+19: D: I'm sorry to hear that. When you say bad um, Like, could you describe it for me?
+20: P: Yeah, i've had it for A really severe the last day or so, but i've never had one. That was this bad. I've had migraines before, but nothing like this.
+21: D: So You had a history of migraines. Did you do take medication for migraines?
+22: P: No, i don't.
+23: D: Okay. All right. Um, but this does, does this feel like your migraine are very different?
+24: P: This feels like, It feels different. It feels more severe.
+25: D: Okay? So if you were to give this like a on a scale of one out of 10 and a 10 would be the worst headache that you've ever felt. And then i, i would like to know what's this one? Compared to your migraines.
+26: P: Yeah, i think i've i've you know, i had headaches before but Not compared to this, like the My headache is, Affecting everything. My daily life. I just can't I can't stand the lights, it's Makes it worse.
+27: D: So tell me about the the What we call that photophobia, but it means the lights, bothering. You tell me a little bit about the, the photophobia. Well,
+28: P: It just seemed bright lights, make it worse. It makes like a stabbing knife pain in my head.
+29: D: And What do you do to make that better?
+30: P: I've Just been lying in the dark with the blinds closed and no TV no cell phone. Nothing.
+31: D: Okay. When, when you and the headache, is it constant does it? Is it coming go? What's the character of them?
+32: P: No, it's pretty much just constant. It's like, from my forehead down to like my temple region. Um, i don't know. I don't know why i have it. It's kind of been making me sick to my stomach. And it just hasn't gone away. Usually I'll have a headache and it'll go away. This is not going away.
+33: D: So if i understand this is, you have it in the front, you have it towards the temples and then it's Also associated with problems handling light. Also it sounds like also some nausea and possibly some vomiting.
+34: P: Yeah.
+35: D: Um, You said it was in the front and a temples. Does it go anywhere else? Does it? Radiate anywhere else?
+36: P: Yeah, I kind of goes back to the back of my head. Okay.
+37: D: All right. To the back here head, how's your neck feel?
+38: [NAME]: [NAME].
+39: D: Okay, So it's difficult. Is it harder for you to move? When you move, does that bother it?
+40: P: Yeah, it just seems like any kind of Um, You know, just everything is affected when i have this, you know, this headache that i have right now just Seems like it's taken over my life.
+41: D: Okay. Um, and then tell me the very first time you were aware of this bad headache. When did it start?
+42: P: Um, it kind of started suddenly In the morning. Then it was just throbbing. And then i thought, okay. Well You know, i've had headaches before but nothing like this this is really unbearable.
+43: D: So when you say it started throbbing but then it got more. It got worse in severity over time.
+44: P: Yeah, just it was a sudden.
+45: D: Um, did you take anything to try and make it better?
+46: P: Um, I don't really take a lot of medication.
+47: D: okay. So do you know, ever take Tylenol or aspirin or anything like that for headaches?
+48: P: Yes, I've taken that.
+49: D: Did You did you for this one?
+50: P: Yeah, i took a couple of um, ibuprofen but It didn't touch it.
+51: D: Okay, and how long ago did you take that ibuprofen?
+52: P: Uh, probably about four hours ago?
+53: D: Okay. All right. Good to know. Um, Um besides that is there anything you can think of that, makes it better or makes it worse?
+54: P: Well, being in a dark room with nothing on in my head, buried in the covers. Seems to alleviate it a little bit, but It's It's pretty bad.
+55: D: You can try anything like heating pad or anything. Other things to maybe help with the symptoms.
+56: P: No, i haven't
+57: D: Great. I'm just checking to make sure i've covered the bases. Is there anything else that you can think of About the headache that i should know.
+58: P: No, i don't think so.
+59: D: Well, thank you very much, miss. Do, if it's all right with you, i'm going to move on. Um, and ask you a couple questions about your medical history. The first thing i'm going to ask is, have you ever been in the hospital?
+60: P: Um, no. Well i actually had an appendectomy before.
+61: D: Okay? And how long ago was the appendectomy
+62: P: Um, You know. It's been a little bit.
+63: D: Like more than 10 years, yeah?
+64: P: Okay.
+65: D: Can you remember whether it was an open procedure with an incision in your right lower quadrant, meaning the lower part of your belly there on the right side or whether it was a small done with a scope of some kind?
+66: P: Yeah, I had little little incisions on my belly.
+67: D: So It means it was done with the scope and that's good to know. Okay. And did you recover quickly from that? From the appendectomy?
+68: P: Yeah. Okay it was easy.
+69: D: How were you in the hospital for?
+70: P: Um, i was basically outpatient.
+71: D: Okay. And do you remember where it was at here or is that another hospital?
+72: P: Oh, it wasn't at this hospital. Okay,
+73: D: Where can you tell me what hospital was in?
+74: P: Uh Yeah. Was that Saint Mary's?
+75: D: Okay, great. Um, and that's the only time that you've been a hospitalized that you can remember.
+76: P: Yes.
+77: D: Okay. Yeah, i, i, i'm, i know i'm looking ahead and it says you've been, you've had. I think, two children. Is that correct? Oh,
+78: [NAME]: Right. Yes.
+79: D: So you mean you delivered in a hospital or did you deliver at home?
+80: P: Um, well, one of them i delivered in the hospital and the other one was at home.
+81: D: Um, Okay, i'm i'll come back to that but other than that, other than the actual delivery. And the appendectomy, are there any other hospitalizations that you've had?
+82: P: No, That's it.
+83: D: Okay And um, are there any illnesses that you are under the care for a doctor, for on a chronic basis? Meaning these are ongoing problems that you see a physician for it?
+84: P: No.
+85: D: Um, and Let me switch gear. So there there so you don't see a doctor, you go, do you, do you see doctor on a regular basis like every year for a well, check up.
+86: P: Yeah, i do recently my primary care provider. Retired. So i'm actually looking for one right now.
+87: D: But when you've gone to see your primary care doctor, it's been just for a well check up. It hasn't been for any specific problems. No.
+88: P: I'm pretty healthy good.
+89: D: I'm glad to hear that. Um, that's always nice to know. I like to find out a little bit about any allergies that you might have.
+90: P: Oh Yeah. I have a severe. Allergy to penicillin
+91: D: To penicillin and do you. You know what, what your reaction was do you remember? I
+92: P: Had hives all over my body.
+93: D: All Right. Um, And if you got you, if you've taken since that time you had the documented penicillin allergy, do you know what kind of antibiotics they put you on?
+94: P: I don't remember. Okay.
+95: D: All right, that's good. Now, you don't need to. I just, uh, was curious. Sometimes people remember the medication that they took and that just helps me Um, Any other allergies besides penicillin?
+96: P: No.
+97: D: Anything like hay fever or Food allergies or contact allergies.
+98: P: I do have a little seasonal allergies.
+99: D: You take anything for that.
+100: P: Uh, sometimes i'll just, you know, Um, take a little bit of a Benadryl or half of Benadryl.
+101: D: Okay, great. Um, So, Let me ask you a little bit about your family's background. First are your mom and and dad alive?
+102: P: Yes.
+103: D: Okay. And um And are they in good health?
+104: P: I hope they are good.
+105: D: Anybody have a history of headaches in your family.
+106: P: Um, My mom has a history of migraines.
+107: D: Of migraines. Does she take anything for them or just?
+108: P: I don't know if she does actually.
+109: D: Okay Any other health problems in the family?
+110: P: Um, i know my my dad has some hypertension.
+111: D: Okay. And um Do you have any siblings?
+112: P: I do not, i'm an only child.
+113: D: So, No other in other family. Medical problems that you're aware of
+114: P: None.
+115: D: Okay, great. And I'm going to ask you some questions. Sometimes people are A little nervous about this because it sort of sounds like we're prying, but we're really trying to sort just make sure we cover all the bases. So if you have a question about why i'm asking something, please just stop me. Um, i just wanted to know now, tell me a little bit about your living situation. You're right now.
+116: P: Oh, um yeah. I Live with my, my husband. Um, we have a home here.
+117: D: May ask how long you've been married.
+118: P: Sure. Yeah. I've been married for 12 years. Okay?
+119: D: And do you, and you have any children? You said you had one?
+120: P: Yeah, i have two.
+121: D: Two then tell me what their their names are.
+122: P: Oh joseph and sarah.
+123: D: Okay, how old are [NAME]? And [NAME]?
+124: P: Uh they are eight and seven now.
+125: D: So they must keep you pretty busy.
+126: P: Very.
+127: D: Are they in good health?
+128: P: Yes, good.
+129: D: All right, and Uh, tell me a little bit about your, your education. Do you go to finish high school? Did you go to college? Did you go to a trade school or anything like that?
+130: P: Uh, i went to um, college and then but now i stay at home, mom. Okay. Um, i work On the side. Um, and take care of the kids.
+131: D: What kind of work?
+132: P: Um, well i do some software development.
+133: D: So what was your background in your educational background and when you went to school.
+134: P: Oh Uh MIS.
+135: D: Okay, All right. And what did your husband do for a living?
+136: P: Um, he's a contractor.
+137: D: Okay. All right. And um, Uh, and this situation, how about, you know, those stress levels, i mean, raising to young kids and doing software and all the rest of that, that can be pretty stressful. Is that something? That's hard to balance?
+138: P: Yeah its pretty stressful sometimes because, you know, the kids are, are home, and i have to manage them and try to work and She gets chaotic.
+139: D: Um, do you happen to smoke?
+140: P: No.
+141: D: Okay. Have you ever smoked
+142: P: Never.
+143: D: Okay, What about alcohol? Do you drink alcohol? Like, wine or beer.
+144: P: Usually on the weekends, you know, especially if we get together with friends or other families.
+145: D: So Only like, on social social, occassions.
+146: P: Yeah.
+147: D: That's okay. And you drink, you know, how much do you think you drink? One, two glasses more than that.
+148: P: Um, i probably just drink one glass. No more than two.
+149: D: How about Recreational drugs, like marijuana cocaine, nothing else, nothing. No. Have you ever?
+150: P: No.
+151: D: Okay, good. Um, and let me delve into a little bit about. I've this is always a little uncomfortable. What i just asking about, is there anything about your relationship with your husband? And i should know about anything about your sexual relationship. You think i would as important for me to know, sometimes people have had headaches during sexual relations and they forget to mention that But if there's anything that you think is relevant, please, just let me know. Otherwise we'll move on.
+152: P: No.
+153: D: Okay. So in terms of medications, do you take any prescription medications?
+154: P: No.
+155: D: Okay um when you said that you take some Benadryl occasionally but you took a little bit of Advil, i think he said for your headache. Was that right?
+156: P: Yeah, ibuprofen.
+157: D: Ibuprofen. Well, thanks for correcting me there. Um, anything else in terms of over-the-counter medications?
+158: P: Um, i take a multivitamin.
+159: D: Okay, Anything besides multivitamin.
+160: P: No.
+161: D: Any herbs or supplements, or...
+162: P: No.
+163: D: Okay, All right. No. Um And in terms of, Vaccinations and immunizations, are you up to date on? For example, on your things like polio tetanus? Um, i don't know where you stand with covid vaccinations and things like that. Can you fill me in?
+164: P: I'm up to date in all the recommended ones.
+165: D: Okay, All right. Um, have you had gotten a new RSV? Vaccination.
+166: P: No.
+167: D: Okay. And Also the ones for shingles by chance.
+168: P: No.
+169: D: Okay. Because you would be a little young for that but i just wanted to check for Them. In terms of your Reproductive cycle. And any issues there, it's been pretty...
+170: P: I'm like clockwork.
+171: D: Great. Okay. Um, just the two pregnancies and the two births or more than...
+172: P: No, That's it.
+173: D: Okay. Um, and you happen to see a gynecologist on a regular basis.
+174: P: I Usually, for my annual.
+175: D: Your Annual, okay. And, and That they do swabs and things like that for you regularly. Okay. So let me just run down. This is list is kind of boring, but we want to make sure we didn't miss anything. So first thing i want to know is in terms of things like fatigue, your energy level, Um, any changes there?
+176: P: No, just since i've had the headache i'm pretty perfect sense.
+177: D: No history of um unintended weight loss or weight gain.
+178: P: No.
+179: D: Okay, any difficulty sleeping?
+180: P: No.
+181: D: Night Sweats?
+182: P: No.
+183: D: fevers
+184: P: No.
+185: D: Okay. Um, anything related to your vision? Your smell? Back of your throat. Your hearing any problems there.
+186: P: No, just just the bright lights. Have been really bothering and loud noises my head hurt more.
+187: D: Well, That's a good. I forgot to ask that. Thank you. Um, any problems with your your heart?
+188: P: No.
+189: D: Okay. Any problems with a circulation and Limbs.
+190: P: No.
+191: D: Okay. And how about uh any problems with respiratory? Your lung status. Your ability to breathe.
+192: P: Nope.
+193: D: Okay. I'm gonna move on to the gastrointestinal tract. So this is just asking about problems with digestion or passage of food. Anything with that?
+194: P: No, Just the nausea, and some vomiting.
+195: D: And that's actually just this one interval. It's not something you have commonly.
+196: P: No.
+197: D: And then any problems with urination?
+198: P: No.
+199: D: Okay, Um, And then, how about? Issues with your joints. Your bones, anything. That i need to know there, like, arthritis or things that painful joints, anything like that?
+200: P: No.
+201: D: Okay. Um, In, in the past, have there been any issues with things like your Level of red blood cells, or what's going on in your, in your white, blood cell, count anything like that, that ring a bell.
+202: P: Um, No.
+203: D: Okay, good. How about hormonal? And i'm talking now about, When we talk remote, i'm not talking about necessarily with hormones that you take for birth control. Although, that would be important if you do, i didn't ask you what you were doing for birth control. But i should
+204: P: Oh, Yeah, i i do take a Um, birth control.
+205: D: Okay. And you, you know what it's it is, is it a progesterone? Is it a...
+206: P: It, uh, it's a combination.
+207: D: Okay. All right. Um, Besides that, any other problems with things like your thyroid? Um, other the, those would all be sort of endocrine problems if you will.
+208: P: No, nothing.
+209: D: And then, Last but not least, how about your You're thinking your emotional state has that been any issues there or any problems there?
+210: P: Um, just You know, just i'm a little stressed, right.
+211: D: Have you ever sought professional help for stress management?
+212: P: No, I just figured it's, you know, kind of that time of life. And when you have kids and trying to work.
+213: D: You mean in terms of what point of lifestyle where you are right now?
+214: P: Yeah.
+215: D: Okay, Because you know, there's sometimes people do feel overwhelmed and if they do we often recommend that they do not talk to somebody about it because There's no reason why you should be feel like you're alone when it comes to that. Okay, so so if i can just go over for one more moment here, i understand correctly. Um, you've had this headache going on now, about a day and a half. They're abouts?
+216: [NAME]: Right?
+217: D: Okay. And it's been unusual. It's very different from what you had before and a way of migraines, this one is been much more severe. It's been going from the front of the head to the sides of the head and also radiating it to your neck. And it's also been associated with you, inability to tolerate light, and loud noises and also i've been associated with nausea and vomiting.
+218: P: Yeah.
+219: D: Is that right? And you have no other history of any kind of vascular problems hypertension. Or rhythms or anything like that. Um, You know, and we'll, we'll obviously, Do an exam. So that we focus on some of the things that we're we need to look at Um, but it sounds like that's the major problem and we're going to try and make you comfortable so that we get these headaches under better control. But also to figure out is this just a variant of some kind of migraine is this attention headache? Is this something more? Seriously, we need to worry about. And we'll, we'll know that once we get a little bit more information from the physical examination. So What will happen now, is that dr. [NAME] will. [NAME] will come in and take a look at you because we don't want to have to do. Multiple exams on you, that's a little stressful. So They'll be in to take a look at you and when that'll complete our the first part of the evaluation. But before i go, i want to make sure i've understood what your problems are and if there's anything more you want to tell me or if you have any questions?
+220: P: No, i don't have any questions. I just i'm one question would be like, how long will this take? Because i have to pick up my kids from school.
+221: D: Sure. And i can understand that, that's oppressing issue. We'll try and know a little bit more. Once we do the physical exam and what the workup's going to be meaning, what other tests we might want to do. Usually, we like to do a couple of tests when we're dealing with bad headache like this. Um, so we'll try and get you a better understanding. Once we know the tests that we're going to order and how long Um, but i can tell you we try and get you through as quickly as possible. We'll try and make sure we keep you. I a Apprised of the schedule.
+222: P: Okay.
+223: D: Okay.
+224: P: Thank you.
+225: D: All right, you bet. Thank you. Thanks for being so patient with me.

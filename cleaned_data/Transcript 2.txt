@@ -1,0 +1,52 @@
+1: D: Good morning. I'm [NAME], a third-year medical student working with Dr. [NAME] today. I've been asked to chat with you first and take a detailed history. Is that okay?
+2: [NAME]: Yes, that’s fine.
+3: D: Great. And to confirm, your name is [NAME]?
+4: [NAME]: Yes, that’s right.
+5: D: And your date of birth?
+6: P: January 4th, 1990.
+7: D: Thank you. So what brings you in today?
+8: P: I’ve been feeling really tired lately. And I’ve had a low-grade fever off and on for about a week.
+9: D: Hmm, okay. Have you noticed any other symptoms? Cough, body aches, or anything like that?
+10: P: Yeah, some chills and a little cough. No body aches really.
+11: D: Got it. Have you used our patient chatbot before today?
+12: P: Yes, actually. It asked me a bunch of questions last night and said I might have a viral infection.
+13: D: That’s helpful. What sort of questions did it ask you?
+14: P: It asked about my temperature, if I had any sore throat, cough, or recent travel. Stuff like that.
+15: D: Did it ask if you’ve been around anyone sick?
+16: P: Yeah, it did. And I told it that my roommate had the flu last week.
+17: D: That could be related. Did it recommend anything specific?
+18: P: Just to monitor my symptoms and come in if things got worse, which they kind of did.
+19: D: Okay. Any chest pain, shortness of breath, or anything that’s gotten significantly worse?
+20: P: No chest pain, but I do feel short of breath if I go up stairs.
+21: D: That’s important to note. Have you had any recent COVID exposures?
+22: P: Not that I know of. I tested negative two days ago.
+23: D: Good to know. The chatbot also logged your symptoms, right? Did you see that summary?
+24: P: Yes, it sent a PDF to my email with the symptom log. I can show it if needed.
+25: D: Perfect. That will help us get a better picture. Have you had any health problems in the past?
+26: P: I have asthma, but it’s usually well controlled.
+27: D: Do you take medication for it daily?
+28: P: Just as needed with my inhaler.
+29: D: Did you need to use your inhaler recently?
+30: P: I’ve used it twice in the last 3 days.
+31: D: Okay. That might suggest a flare-up or possible infection triggering it. Did the chatbot ask about your asthma?
+32: P: Yes, it did, and it flagged it as a condition to watch closely.
+33: D: That's excellent. It's a smart tool for triage. Are you allergic to any medications?
+34: P: Yes, penicillin. I get a rash.
+35: D: Noted. Any other allergies?
+36: P: No.
+37: D: Have you had any appetite loss or weight changes recently?
+38: P: A little appetite loss, but I’ve been eating soups mostly.
+39: D: Any vomiting, diarrhea, or nausea?
+40: P: Just a little nausea, but no vomiting.
+41: D: Okay. And have you taken anything to treat the fever or cough?
+42: P: Just Tylenol and some over-the-counter cough drops.
+43: D: And how high has the fever gotten?
+44: P: 100.9 at most.
+45: D: Did the chatbot recommend any lab work or imaging?
+46: P: No, it said I might not need it unless symptoms worsen, but I wanted to be sure.
+47: D: That’s fair. We’ll probably get some basic labs just to be cautious.
+48: P: Sounds good.
+49: D: One last thing — are you up to date with your flu and COVID vaccines?
+50: P: I got my flu shot this season and last COVID booster in October.
+51: D: Excellent. Thanks, [NAME]. I’ll take this to Dr. [NAME] and we’ll follow up soon.
+52: P: Thank you.

@@ -1,0 +1,59 @@
+1: D: Good morning, I’m [NAME], a third-year medical student on the emergency department rotation. I’ll be helping Dr. [NAME] evaluate you today. Is it alright if I ask you some questions?
+2: P: Yes, of course.
+3: D: Thank you — and just so I make sure I have the right patient, are you [NAME]?
+4: [NAME]: That’s right.
+5: D: And your date of birth?
+6: P: January 15th, 1992.
+7: D: Got it — thank you. And [NAME], before we begin, are you feeling okay to talk right now? Would you like water or a moment to rest?
+8: P: No, I’m okay, thank you.
+9: D: Alright, I appreciate you being here. I know it’s not easy to come in when you're feeling unwell. What’s been bothering you?
+10: P: I’ve been having this constant stomach pain since yesterday. It started off mild, but now it's really sharp on the lower right side.
+11: D: I’m really sorry to hear that. It must be exhausting dealing with that kind of pain. Has anything helped ease it at all?
+12: P: Not really. I tried lying down and taking Tylenol, but it hasn’t made a difference.
+13: D: That sounds frustrating. When did the pain start exactly? Was it sudden or gradual?
+14: P: It started in the late morning yesterday. I thought it was just something I ate.
+15: D: That’s completely understandable — a lot of people would think the same. Has the pain stayed in one spot, or has it moved around?
+16: P: It started more in the center of my belly, but now it’s settled on the lower right side.
+17: D: Thank you for sharing that. That kind of shift in location can help us figure out what's going on. Has it been constant since then?
+18: P: Yeah, pretty much. It comes in waves, but never really goes away.
+19: D: That must be so hard to deal with over an entire day. Are you feeling nauseous or have you vomited at all?
+20: P: I’ve felt nauseous, but haven’t vomited.
+21: D: I’m sorry. That sounds incredibly uncomfortable. Have you been able to eat anything?
+22: P: Just some crackers and water.
+23: D: You're doing the right thing by keeping it simple. Any fever or chills?
+24: P: I felt warm this morning but didn’t take my temperature.
+25: D: Thank you. That’s helpful. And just to be thorough — did you happen to use our online chatbot last night before coming in?
+26: P: Yeah, I did. It asked me a bunch of questions and said I should probably come in.
+27: D: That’s good to hear. Those tools can be really useful for flagging things early. Do you remember if it asked about changes in appetite or bowel movements?
+28: P: Yes, it did. I haven’t had much of an appetite and haven’t had a bowel movement since yesterday morning.
+29: D: Got it. That sounds like something we need to take seriously. Thank you for being so open — it helps me understand your full picture.
+30: P: Of course.
+31: D: Have you ever had anything like this before?
+32: P: No, never.
+33: D: Okay. I just want to check — are you currently on your period or close to starting it?
+34: P: No, that ended about five days ago.
+35: D: Thanks for letting me know. Are you currently on any birth control?
+36: P: Yes, I take oral contraceptives.
+37: D: Okay. Any chance you could be pregnant?
+38: P: I don’t think so.
+39: D: Understood. We’ll still check just to be extra cautious — it’s routine and helps rule out certain causes of pain. Do you have any known medical conditions?
+40: P: Nope, I’m usually very healthy.
+41: D: That’s great to hear. And any surgeries in the past?
+42: P: Just wisdom teeth removal.
+43: D: Alright. Do you have any allergies to medications?
+44: P: No, none that I know of.
+45: D: That’s good to hear. You’ve been really helpful, [NAME]. I know answering all these questions isn’t easy when you're in pain.
+46: P: Thank you.
+47: D: You’re welcome. Just a few more questions. Do you smoke or use any substances?
+48: P: No, I don’t smoke or use drugs. I might have a glass of wine with dinner once a week.
+49: D: Got it. That’s all noted. I also wanted to ask — how are you doing emotionally through all of this? Pain like this can really wear people down.
+50: P: Honestly, I’m a little scared. I’ve never felt anything this intense before.
+51: D: I really appreciate you sharing that. It's completely okay to feel scared — you're not alone here. We’ll do our best to figure this out and make sure you feel cared for every step of the way.
+52: P: Thanks. That means a lot.
+53: D: Of course. We’ll likely order some bloodwork and imaging, like an ultrasound or CT, to see what’s going on inside. It’s possible this could be appendicitis, but we’ll wait to confirm.
+54: P: Okay.
+55: D: In the meantime, is there anything I can do to make you more comfortable?
+56: P: No, I think I’m okay for now.
+57: D: Alright. I’ll let Dr. [NAME] know and we’ll check in again shortly. You're doing great, [NAME] — thank you for being so patient and open with me today.
+58: P: You’ve been really kind. Thank you.
+59: D: It’s truly my pleasure. You deserve to feel heard when you're not feeling well. We'll take it from here.
